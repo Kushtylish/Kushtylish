@@ -24,7 +24,10 @@ Volatility surfaces and no-arbitrage constraints ·
 Portfolio optimization (mean-variance, min-variance) ·
 Covariance shrinkage (Ledoit-Wolf) · Backtesting with transaction costs ·
 Statistical estimation and out-of-sample validation
+reproducible notebooks · modular Python packages
+Market microstructure · limit order books · order flow simulation ·
+Poisson processes · market impact analysis
+
 
 **Engineering:**
 Git · virtualenv · unit testing · Streamlit deployment ·
-reproducible notebooks · modular Python packages
