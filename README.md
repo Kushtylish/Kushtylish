@@ -9,6 +9,7 @@ Quantitative finance projects focused on derivatives pricing, portfolio optimiza
 
 - [volatility-surface](https://github.com/Kushtylish/volatility-surface) — Implied vol surface from real SPY chains, with no-arbitrage checks and interactive 3D dashboard.
 -  [limit-order-book](https://github.com/Kushtylish/limit-order-book) — Price-time priority matching engine with Poisson order flow, market impact analysis, and live dashboard.
+-   [nse-options](https://github.com/Kushtylish/nse-options) — Black-76 pricing validation and smile-screening framework for NSE Kenya options, with daily automated reports via GitHub Actions.
 
 
 ## Skills
